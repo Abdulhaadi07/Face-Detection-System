@@ -28,7 +28,7 @@ Welcome to the Face Detection and Recognition Model project repository! This pro
 7. **Contribute**: If you find any issues or have suggestions for improvements, feel free to contribute by creating a pull request.
 
 ## Contributors
-- [Abdul Hadi]: [Abdulhaadi07]
+- Abdul Hadi: Abdulhaadi07
 
 ## License
 This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
