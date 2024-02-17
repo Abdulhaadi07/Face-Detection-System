@@ -34,7 +34,7 @@ Welcome to the Face Detection and Recognition Model project repository! This pro
 This project is licensed under the [License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
-Special thanks to [Name] for their contributions and support throughout the development of this project.
+Special thanks to Yashwanth(Virtual Tutor) for their contributions and support throughout the development of this project.
 
 ## Get Started
 Ready to get started? Clone this repository and dive into the world of face detection and recognition with Python and OpenCV! If you have any questions or need assistance, don't hesitate to reach out.
